@@ -1,1 +1,1 @@
-"""UI components for the TeaserAI Streamlit app, one screen/widget per module."""
+"""UI components for the SmartClipAI Streamlit app, one screen/widget per module."""
