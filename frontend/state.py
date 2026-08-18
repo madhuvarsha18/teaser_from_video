@@ -1,12 +1,6 @@
-"""
-Streamlit session-state defaults and the analysis-JSON loader/cache.
-"""
 import json
 from pathlib import Path
-
 import streamlit as st
-
-
 def init_session_state():
     defaults = {
         "current_step": "welcome",
