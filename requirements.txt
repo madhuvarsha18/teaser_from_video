@@ -1,0 +1,28 @@
+# Core ML & AI
+torch
+transformers==4.35.2
+faster-whisper
+pillow
+soundfile
+numpy==1.26.4
+
+# Video / Audio processing
+scenedetect
+opencv-python-headless
+ffmpeg-python
+yt-dlp
+pydub
+pytube>=15.0.0
+
+# Web app
+streamlit
+python-dotenv
+
+# LLM integration
+langchain
+langchain-core
+langchain-groq
+
+# Utilities
+concurrent-log-handler
+imageio[ffmpeg]
